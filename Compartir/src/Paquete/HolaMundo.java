@@ -22,5 +22,6 @@ public class HolaMundo {
 
         System.out.println("negro");
         System.out.println("Viernes");
+        System.out.println("9 enero");
     }
 }
