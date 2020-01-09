@@ -21,6 +21,6 @@ public class HolaMundo {
         System.out.println("love ou");
 
         System.out.println("negro");
-
+        System.out.println("Viernes");
     }
 }
